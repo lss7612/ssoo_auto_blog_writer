@@ -1,0 +1,21 @@
+# 학습용 원본 글 (개인 자료, 매번 새로 수집 가능)
+samples/*.html
+samples/*.txt
+samples/_index.json
+samples/.rss.xml
+samples/.items.tsv
+
+# 슬래시 커맨드로 받은 사진
+photos/*
+!photos/.gitkeep
+
+# 생성된 글 (개인적 산출물)
+output/*.html
+!output/.gitkeep
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
