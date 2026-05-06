@@ -13,6 +13,9 @@ photos/*
 output/*.html
 !output/.gitkeep
 
+# Claude Code worktree archives
+.claude/worktrees/
+
 # macOS
 .DS_Store
 
