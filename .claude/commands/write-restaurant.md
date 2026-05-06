@@ -1,5 +1,6 @@
 ---
 description: 사진과 정보를 받아 네이버 블로그 맛집 글 HTML을 생성합니다 (쑤기로운 일상생활 톤)
+model: sonnet
 ---
 
 # /write-restaurant — 맛집 블로그 글 작성
