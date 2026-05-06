@@ -24,7 +24,12 @@
 <!-- 인트로 -->
 <p style="text-align:center;">{소개 동기 1문장}</p>
 <p style="text-align:center;">{가게명 + "다녀왔어요"}</p>
+
+<!-- 마커: 협찬 여부에 따라 둘 중 하나만 -->
+<!-- (A) 내돈내산일 때 -->
 <p style="text-align:center;">#내돈내산</p>
+<!-- (B) 협찬·체험단·제공일 때 — #내돈내산 절대 X -->
+<p style="text-align:center;"><span style="color:#888;">{sponsor_disclosure 문구}</span></p>
 
 <p>&nbsp;</p>
 
